@@ -1,3 +1,3 @@
 # Environmental Works
 
-This is a repository where I'm storing some works that I did since now. Enjoy!
+In my undergraduate studies, I wrote a lot of usefull code about modeling, calibration, hydrology, dam projects and more. I'm sharing here a part of my work. Wish you enjoy!
